@@ -26,6 +26,7 @@ h1{
 h2,p{
     color: white;
     font-weight: bold;
+    font-size: 1rem;
     text-transform:uppercase;
 }
 
@@ -36,7 +37,7 @@ a{
     padding: 10px;
     /* border: none; */
     /* cursor: pointer; */
-    font-size: 20px;
+    font-size: 1rem;
     box-shadow: 2px 2px 5px black;
     background:transparent;
     text-transform: uppercase;
@@ -52,7 +53,7 @@ a:hover{
     padding: 10px;
     /* border: none; */
     /* cursor: pointer; */
-    font-size:25px;
+    font-size:1.2rem;
     box-shadow: 2px 2px 0px black;
     background: whitesmoke;
     text-transform: uppercase;
@@ -63,7 +64,7 @@ a:hover{
 
 #myBtn {
     width: 100px;
-    font-size: 18px;
+    font-size: 0.8rem;
     font-weight: bold;
     padding: 10px;
     border: none;
@@ -78,7 +79,7 @@ a:hover{
 
 #myBtn:hover {
     width: 100px;
-    font-size: 20px;
+    font-size: 1rem;
     font-weight: bold;
     padding: 10px;
     border: none;
